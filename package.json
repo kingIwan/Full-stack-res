@@ -25,6 +25,7 @@
     "./factories": "./build/src/factories/main.js",
     "./database": "./build/src/database/main.js",
     "./orm": "./build/src/orm/main.js",
+    "./orm/relations": "./build/src/orm/relations/main.js",
     "./seeders": "./build/src/seeders/main.js",
     "./services/*": "./build/services/*.js",
     "./types/*": "./build/src/types/*.js",
